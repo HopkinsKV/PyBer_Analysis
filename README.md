@@ -9,6 +9,8 @@ Incuded are total weekly fares by city type between January and April 2019.
 ### Resources & Languages
 Python, Pandas, Matplotlib, Jupyter Notebook
 
+<br/>
+
 ## Results
 
 ### City-based Analysis
@@ -48,4 +50,4 @@ Instating a program to encourage urban or suburban drivers to accept rural rides
 
 We encourage the creationg of an advertising campaign explaining the new changes made.  
 This information, combined with a culturally-apropriate atmosphere, may encourage ridership from rural communities, which will in turn lead to more profit from drivers changing location.
-<br/><br/><br/><br/>
+<br/><br/>
