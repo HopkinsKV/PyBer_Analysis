@@ -1,10 +1,10 @@
 # PyBer Analysis
-Eploratory analysis for PyBer, a ride-sharing company, on large sets (2000+ rows) of data
+Exploratory analysis for PyBer, a ride-sharing company, on large sets (2000+ rows) of data
 <br><br>
 
 ## Overview
-This review provides vizualizatyions and analysis to improve access to ride-sharing services and accessability for underserved communities. <br/>
-Incuded are total weekly fares by city type between January and April 2019.
+This review provides visualizations and analysis to improve access to ride-sharing services and accessibility for underserved communities. <br/>
+Included are total weekly fares by city type between January and April 2019.
 
 ### Resources & Languages
 Python, Pandas, Matplotlib, Jupyter Notebook
@@ -40,14 +40,14 @@ Fig. 2 <br>
 ## Summary
 <br/>
 
-We recommend that Pyber looks into setting fare limits on rural, and to some extent, suburban pricing to allow those in these underserved communities better access.  
-Due to the geographical constrictions, these groups will have longer trips on average, which can drive up  prices per ride.
+We recommend that PyBer looks into setting fare limits on rural, and to some extent, suburban pricing to allow those in these underserved communities better access.  
+Due to the geographical constrictions, these groups will have longer trips on average, which can drive up prices per ride.
 <br/><br/>
 
 Increasing the number of drivers in rural areas will lower the prices due to the dynamic pricing setup used at PyBer.  
 Instating a program to encourage urban or suburban drivers to accept rural rides will increase their individual income to offset the costs of travel to rural areas.
 <br/><br/>
 
-We encourage the creationg of an advertising campaign explaining the new changes made.  
-This information, combined with a culturally-apropriate atmosphere, may encourage ridership from rural communities, which will in turn lead to more profit from drivers changing location.
+We encourage the creation of an advertising campaign explaining the new changes made.  
+This information, combined with a culturally appropriate atmosphere, may encourage ridership from rural communities, which will in turn lead to more profit from drivers changing location.
 <br/><br/>
